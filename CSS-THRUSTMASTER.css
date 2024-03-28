@@ -1,7 +1,7 @@
 /*BEGIN THRUSTMASTER eSWAP Controller Styling*/
 
 .controller.custom{
-    background: url(base1.png); 
+    background: url(base.png); 
     height: 889px;
     width: 1000px;
     background-repeat:no-repeat;
